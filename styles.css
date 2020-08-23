@@ -1,0 +1,10 @@
+.modal{
+height: 317px;
+width: 313px;
+position: fixed;
+left: 39%;
+z-index: 200;
+display: none;
+justify-content: center;
+align-items: center;
+}
